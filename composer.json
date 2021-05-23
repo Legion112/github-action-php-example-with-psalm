@@ -1,0 +1,19 @@
+{
+    "name": "max/ga",
+    "type": "project",
+    "require-dev": {
+        "vimeo/psalm": "^4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Legion112",
+            "email": "ageev.maks2014@gmail.com"
+        }
+    ],
+    "require": {}
+}
