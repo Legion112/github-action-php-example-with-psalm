@@ -15,5 +15,7 @@
             "email": "ageev.maks2014@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "proprietary",
+    "description": "A simple project show how to set up github pipline"
 }
