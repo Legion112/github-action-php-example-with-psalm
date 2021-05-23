@@ -8,5 +8,5 @@ require dirname(__DIR__) . '/vendor/autoload.php';
 use App\Example;
 
 $example = new Example();
-echo $example->helloWorld() . PHP_EOL;
+echo $example->hellowWorld() . PHP_EOL;
 
